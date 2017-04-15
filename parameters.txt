@@ -1,0 +1,4 @@
+numberOfSteps,10000
+startPositionHorizontal,30
+startPositionVertical,30
+speed,100
