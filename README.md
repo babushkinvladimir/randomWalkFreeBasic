@@ -5,3 +5,11 @@ The project aims to demonstrate dynamic variables input and output in FreeBasic 
 ![](https://github.com/babushkinvladimir/randomWalkFreeBasic/blob/master/fig1.png)
 
 *Random walk trajectory simulated for N=100 steps*
+
+![](https://github.com/babushkinvladimir/randomWalkFreeBasic/blob/master/fig2.png)
+
+*Random walk trajectory simulated for N=2500 steps*
+
+![](https://github.com/babushkinvladimir/randomWalkFreeBasic/blob/master/fig3.png)
+
+*Random walk trajectory simulated for N=10000 steps*
